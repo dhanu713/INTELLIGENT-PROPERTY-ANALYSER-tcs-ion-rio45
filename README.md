@@ -5,8 +5,7 @@ The **Intelligent Property Analyser** is a comprehensive data science and machin
 
 ## Demo
 
-https://github.com/TheYashMalore/Intelligent-Property-Analyser/blob/26fb6d30859f2caeba2f58dbc79aa7e5e55b7299/Intelligent%20Property%20Analyser.mp4
-
+https://github.com/user-attachments/assets/9a5e1276-3b0d-4196-bf71-75d32f1510fc
 
 ## Features
 - **Prediction Model:** Built using the Random Forest algorithm, achieving an R2 score of 0.94.
