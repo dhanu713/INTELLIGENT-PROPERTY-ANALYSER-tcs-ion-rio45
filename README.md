@@ -5,7 +5,7 @@ The **Intelligent Property Analyser** is a comprehensive data science and machin
 
 ## Demo
 
-https://github.com/TheYashMalore/Intelligent Property Analyser.mp4
+https://github.com/TheYashMalore/Intelligent-Property-Analyser/blob/26fb6d30859f2caeba2f58dbc79aa7e5e55b7299/Intelligent%20Property%20Analyser.mp4
 
 
 ## Features
